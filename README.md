@@ -1,4 +1,4 @@
-# Trizetto Facets Project
+# An Example of a Trizetto Facets Style Project using warp.dev
 
 ## Overview
 
